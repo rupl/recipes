@@ -1,0 +1,14 @@
+{
+  "name": "recipes",
+  "description": "a collection of personal recipes",
+  "repository": "git@github.com:rupl/recipes.git",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "vuepress": "^0.3.0"
+  },
+  "engines": {
+    "node": "8.11.1",
+    "npm": "5.8.0"
+  }
+}
